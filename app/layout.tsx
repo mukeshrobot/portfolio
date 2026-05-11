@@ -94,8 +94,9 @@ export const metadata: Metadata = {
     apple: "/1771869736681.png",
   },
   verification: {
-    // Add Google Search Console verification token here once you have it
-    // google: "YOUR_GOOGLE_VERIFICATION_TOKEN",
+    other: {
+      "msvalidate.01": "3C255E7AD42AA1A104B86316C8545C8A",
+    },
   },
 };
 
