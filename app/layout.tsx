@@ -94,6 +94,7 @@ export const metadata: Metadata = {
     apple: "/1771869736681.png",
   },
   verification: {
+    google: "BwmzuPz_B_2RtrpqqOBRkTYYVkmMaYn5Qoo7b9X3Sxc",
     other: {
       "msvalidate.01": "3C255E7AD42AA1A104B86316C8545C8A",
     },
