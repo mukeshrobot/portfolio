@@ -1,0 +1,259 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 4209 >>
+stream
+BT
+/F1 22 Tf
+50 732 Td
+(MUKESH KASIMAHANTHI) Tj
+ET
+BT
+/F2 11 Tf
+50 710 Td
+(Full Stack and AI Platform Engineer) Tj
+ET
+BT
+/F2 9.5 Tf
+50 696 Td
+(mukeshrobot@gmail.com  |  github.com/mukeshrobot  |  linkedin.com/in/mukesh-kasimahanthi) Tj
+ET
+0.5 0.5 0.5 RG
+0.5 w
+50 686 m 562 686 l S
+BT
+/F1 11 Tf
+50 668 Td
+(SUMMARY) Tj
+ET
+0.65 0.65 0.65 RG
+0.4 w
+50 664 m 140 664 l S
+BT
+/F2 9.8 Tf
+50 650 Td
+(Full-stack engineer with 4 years of production experience across Angular, React, React Native,) Tj
+ET
+BT
+/F2 9.8 Tf
+50 637.5 Td
+(Node.js, distributed queues, Temporal workflows, AI agent infrastructure, and multi-environment) Tj
+ET
+BT
+/F2 9.8 Tf
+50 625 Td
+(cloud deployments. Comfortable owning systems end to end: frontend, backend, data, AI execution,) Tj
+ET
+BT
+/F2 9.8 Tf
+50 612.5 Td
+(and release.) Tj
+ET
+BT
+/F1 11 Tf
+50 594 Td
+(EXPERIENCE) Tj
+ET
+0.65 0.65 0.65 RG
+0.4 w
+50 590 m 140 590 l S
+BT
+/F2 9.8 Tf
+50 576 Td
+(AI Platform Engineer   \(2024 - Present\)) Tj
+ET
+BT
+/F2 9.8 Tf
+50 563.5 Td
+(  - Distributed agent execution platform on Temporal, Kafka, SQS, Redis, and KeyDB.) Tj
+ET
+BT
+/F2 9.8 Tf
+50 551 Td
+(  - LLM rate-limit control across OpenAI, Anthropic, Gemini, and Amazon Bedrock.) Tj
+ET
+BT
+/F2 9.8 Tf
+50 538.5 Td
+(  - KEDA-driven queue-aware autoscaling and DLQ replay flows for failed jobs.) Tj
+ET
+BT
+/F2 9.8 Tf
+50 526 Td
+(  - Payload codec that offloads large prompts and workflow state to S3 transparently.) Tj
+ET
+BT
+/F2 9.8 Tf
+50 513.5 Td
+() Tj
+ET
+BT
+/F2 9.8 Tf
+50 501 Td
+(Full-Stack Engineer   \(2023 - 2024\)) Tj
+ET
+BT
+/F2 9.8 Tf
+50 488.5 Td
+(  - Apartment operations platform: Angular + DevUI / Nebular + Node / Express + Sequelize.) Tj
+ET
+BT
+/F2 9.8 Tf
+50 476 Td
+(  - Dynamic FormArray flows, water bill and maintenance calculation, Excel reporting.) Tj
+ET
+BT
+/F2 9.8 Tf
+50 463.5 Td
+(  - Project Checklist Review System with RBAC, L1/L2/L3 review stages, React + MUI.) Tj
+ET
+BT
+/F2 9.8 Tf
+50 451 Td
+() Tj
+ET
+BT
+/F2 9.8 Tf
+50 438.5 Td
+(Frontend / Mobile Engineer   \(2022 - 2023\)) Tj
+ET
+BT
+/F2 9.8 Tf
+50 426 Td
+(  - React Native cross-platform mobile flows with typed navigation and forms.) Tj
+ET
+BT
+/F2 9.8 Tf
+50 413.5 Td
+(  - Angular admin tooling and TypeScript fixes across product surfaces.) Tj
+ET
+BT
+/F1 11 Tf
+50 395 Td
+(SELECTED PROJECTS) Tj
+ET
+0.65 0.65 0.65 RG
+0.4 w
+50 391 m 140 391 l S
+BT
+/F2 9.8 Tf
+50 377 Td
+(AI Agent Workflow Platform - Temporal, Kafka, SQS, Redis, KeyDB, KEDA, Bedrock) Tj
+ET
+BT
+/F2 9.8 Tf
+50 364.5 Td
+(Apartment Maintenance Management System - Angular, Node.js, Sequelize, Excel export) Tj
+ET
+BT
+/F2 9.8 Tf
+50 352 Td
+(Project Checklist Review System - React, Node.js, MongoDB, MUI, RBAC) Tj
+ET
+BT
+/F2 9.8 Tf
+50 339.5 Td
+(Cloud Deployment Automation - Docker, GitHub Actions, ECR, AWS, SSL) Tj
+ET
+BT
+/F2 9.8 Tf
+50 327 Td
+(Unified Social Media Hub - Node.js, OAuth, feed and messaging architecture) Tj
+ET
+BT
+/F1 11 Tf
+50 308.5 Td
+(TECH STACK) Tj
+ET
+0.65 0.65 0.65 RG
+0.4 w
+50 304.5 m 140 304.5 l S
+BT
+/F2 9.8 Tf
+50 290.5 Td
+(Frontend:    Angular, React, React Native, TypeScript, Tailwind, Material UI, DevUI, Nebular) Tj
+ET
+BT
+/F2 9.8 Tf
+50 278 Td
+(Backend:     Node.js, Express.js, Sequelize, REST APIs, RBAC, OAuth, JWT) Tj
+ET
+BT
+/F2 9.8 Tf
+50 265.5 Td
+(Data:        PostgreSQL, Amazon Aurora, MongoDB, Redis, KeyDB) Tj
+ET
+BT
+/F2 9.8 Tf
+50 253 Td
+(Messaging:   Temporal, Kafka, Amazon SQS, DLQ design, idempotency, payload codecs) Tj
+ET
+BT
+/F2 9.8 Tf
+50 240.5 Td
+(AI:          OpenAI, Claude, Gemini, Amazon Bedrock, token buckets, fallback routing) Tj
+ET
+BT
+/F2 9.8 Tf
+50 228 Td
+(Cloud:       AWS, Docker, Kubernetes, KEDA, Cloud Run, ECR, GitHub Actions, NGINX, SSL) Tj
+ET
+BT
+/F1 11 Tf
+50 209.5 Td
+(ARCHITECT MINDSET) Tj
+ET
+0.65 0.65 0.65 RG
+0.4 w
+50 205.5 m 140 205.5 l S
+BT
+/F2 9.8 Tf
+50 191.5 Td
+(- Idempotency by default: replay-safe consumers, dedup keys, deterministic workflows.) Tj
+ET
+BT
+/F2 9.8 Tf
+50 179 Td
+(- Fail loud, isolate fast: jittered retries, DLQ routing, structured failure context.) Tj
+ET
+BT
+/F2 9.8 Tf
+50 166.5 Td
+(- Provider-agnostic AI: prompts and tools live above providers; fallback is a config change.) Tj
+ET
+BT
+/F2 9.8 Tf
+50 154 Td
+(- Observable from day one: queue depth, P95, error rate, and token cost streamed pre-launch.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000004518 00000 n 
+0000004620 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4717
+%%EOF
