@@ -4,6 +4,8 @@ export const site = {
   tagline: "Node.js | Angular | React | AI Agents | Cloud Infrastructure",
   location: "India",
   email: "mukeshrobot@gmail.com",
+  url: "https://mukesh-kasimahanthi.vercel.app",
+  ogImage: "/1771869736681.png",
   social: {
     github: "https://github.com/mukeshrobot",
     linkedin: "https://www.linkedin.com/in/mukesh-kasimahanthi-8571a71ba/",
